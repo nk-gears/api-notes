@@ -26,6 +26,7 @@ Please see the CONTRIBUTION Guide for a Basic Generic Template
 - [ ] Xero
 - [ ] Freeagent
 - [ ] CheckCentral
+- [ ] IPTelecom - HostedPBX
 - [ ] Twitter
 - [ ] MS Graph
 - [ ] BoxC
