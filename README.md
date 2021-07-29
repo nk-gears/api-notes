@@ -24,6 +24,7 @@ Please see the CONTRIBUTION Guide for a Basic Generic Template
 
 - [ ] Deputy
 - [ ] Xero
+- [ ] Xero Practice Workflow Manager (XPM)
 - [ ] Freeagent
 - [ ] CheckCentral
 - [ ] IPTelecom - HostedPBX
@@ -34,10 +35,17 @@ Please see the CONTRIBUTION Guide for a Basic Generic Template
 - [ ] PushBullet
 - [ ] PlanGrid
 - [ ] BlueBeam
+- [ ] Procore
+- [ ] Dialogflow
+- [ ] Dialogflow CX
 - [ ] Photoshelter
 - [ ] TinEye
 - [ ] Portainer
 - [ ] Paypal
+- [ ] AfterPay
+- [ ] ANZ
+- [ ] ZipPay
+- [ ] Tyro
 - [ ] Stripe
 - [ ] Transferwise
 - [ ] AWS ApiGateway
@@ -50,6 +58,7 @@ Please see the CONTRIBUTION Guide for a Basic Generic Template
 - [ ] Tuya Pulsar
 - [ ] ITGlue
 - [ ] GitHub 
+- [ ] BitBucket
 - [ ] Firebase
 - [ ] AWS Cognito 
 - [ ] GSuite Reseller 
@@ -65,6 +74,9 @@ Please see the CONTRIBUTION Guide for a Basic Generic Template
 - [ ] MailGun
 - [ ] Microsoft Teams
 - [ ] Microsoft TFS
+- [ ] Neto (eCommerce Orders/Invoice)
+- [ ] Forked-Daapd (owntone)
+
 
 
 
