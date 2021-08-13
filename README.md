@@ -42,6 +42,7 @@ Please see the CONTRIBUTION Guide for a Basic Generic Template
 - [ ] TinEye
 - [ ] Portainer
 - [ ] Paypal
+- [ ] Unleashed (Inventory and Order Management)
 - [ ] AfterPay
 - [ ] ANZ
 - [ ] ZipPay
