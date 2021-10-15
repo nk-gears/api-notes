@@ -23,6 +23,7 @@ Please see the CONTRIBUTION Guide for a Basic Generic Template
 # List of Third Party API
 
 - [ ] Deputy
+- [ ] AgileCRM
 - [ ] Xero
 - [ ] Xero Practice Workflow Manager (XPM)
 - [ ] Freeagent
