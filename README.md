@@ -1,4 +1,4 @@
-# API Integration Expertiments
+# API Integration Experiments
 
 
 API's has become the fundamental building blocks for connecting various business products and services. Businesses are no more restricted to a software vendor lockin. If a specific feature is missing in the traditional system they can always plugin an external service using the API and integrate them.
