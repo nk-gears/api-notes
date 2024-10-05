@@ -1,4 +1,4 @@
-# api-notes
+# API Integration Expertiments
 
 
 API's has become the fundamental building blocks for connecting various business products and services. Businesses are no more restricted to a software vendor lockin. If a specific feature is missing in the traditional system they can always plugin an external service using the API and integrate them.
@@ -7,21 +7,23 @@ I have integrated 100's of external API's and based on my experience i would lik
 
 Reading the entire API Documentation of Third Party API's is practically time consuming. This repository contains notes for developers or API integration specialist to be aware of the challenges those API's going to have and how we can solve them in the right way.
 
-Here the Initial List. Please send a PR to include any other API's.
-
-Please see the CONTRIBUTION Guide for a Basic Generic Template
-
-- Title of Api
-- Description
-- Link for Developer Documentation
-- Category
-- Challenge Section Title
-- Challenge Section Detail
-- Challenge Section Snippet
+# List of API Connectors Developers for NOCODE Platforms (Power Automate)
+- Zoho API (Bookings) - In Progress
+- ITGlue Connector
+- FreeAgent Connector
+- WakaTime - In Progress
+- Zoom Calls - Co-Creator
 
 
-# List of Third Party API
-
+# List of Third Party API's Integrated
+- [ ] Zoho API (Calendar Bookings)
+- [ ] CSIOZ - Polant P1 Integration API
+- [ ] OpenAI 
+- [ ] Gemini LLM 
+- [ ] Anthroipic Claude
+- [ ] Vapi - Voice Automation based on AI
+- [ ] Shopify
+- [ ] Amazon Seller Central API (Product Inentory, Reports)
 - [ ] Deputy
 - [ ] AgileCRM
 - [ ] Xero
