@@ -7,7 +7,8 @@ I have integrated 100's of external API's and based on my experience i would lik
 
 Reading the entire API Documentation of Third Party API's is practically time consuming. This repository contains notes for developers or API integration specialist to be aware of the challenges those API's going to have and how we can solve them in the right way.
 
-# List of API Connectors Developers for NOCODE Platforms (Power Automate)
+# List of API Connectors Developed
+### NOCODE Platforms (Power Automate)
 - Zoho API (Bookings) - In Progress
 - ITGlue Connector
 - FreeAgent Connector
