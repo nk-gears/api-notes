@@ -17,7 +17,7 @@ Reading the entire API Documentation of Third Party API's is practically time co
 
 # List of Third Party API's Integrated
 - [ ] Zoho API (Calendar Bookings)
-- [ ] CSIOZ - Polant P1 Integration API
+- [ ] CSIOZ - Poland P1 Integration API
 - [ ] OpenAI 
 - [ ] Gemini LLM 
 - [ ] Anthroipic Claude
